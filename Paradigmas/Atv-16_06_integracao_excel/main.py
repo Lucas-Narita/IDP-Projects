@@ -1,8 +1,3 @@
-"""main.py
-
-Programa Python responsavel por executar o codigo JavaScript
-(processaFuncionarios.js) usando o Node.js e apresentar os resultados.
-"""
 import os
 import subprocess
 import sys
@@ -30,7 +25,6 @@ def main():
         print(erro.stderr)
         sys.exit(1)
 
-    # Apresenta os resultados processados pelo JavaScript.
     print(resultado.stdout)
     print("Relatorio salvo em relatorio.txt")
 
