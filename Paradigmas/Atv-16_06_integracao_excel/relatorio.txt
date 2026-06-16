@@ -2,17 +2,17 @@ RELATORIO DE FUNCIONARIOS
 ============================================================
 Nome                Salario Final       Classificacao
 ------------------------------------------------------------
-Joao                R$ 2.800,00         Junior
+Claudio             R$ 2.800,00         Junior
 Ana                 R$ 2.550,00         Junior
-Maria               R$ 3.440,00         Pleno
-Carla               R$ 3.450,00         Pleno
+Mariana             R$ 8.440,00         Senior
+Carla               R$ 4.950,00         Senior
 Carlos              R$ 4.460,00         Senior
-Bruno               R$ 4.100,00         Senior
+Bruno               R$ 3.600,00         Pleno
 ============================================================
 
 RESUMO DA EMPRESA
-Folha de pagamento total: R$ 20.800,00
-Maior salario final:      R$ 4.460,00
+Folha de pagamento total: R$ 26.800,00
+Maior salario final:      R$ 8.440,00
 Menor salario final:      R$ 2.550,00
-Media salarial:           R$ 3.466,67
-Quantidade por nivel:     Junior: 2 | Pleno: 2 | Senior: 2
+Media salarial:           R$ 4.466,67
+Quantidade por nivel:     Junior: 2 | Pleno: 1 | Senior: 3
