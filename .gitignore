@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# C / compilados
+*.o
+*.out
+a.out
+
+# Java
+*.class
+
+# Node
+node_modules/
+
+# Sistema
+.DS_Store
